@@ -24,7 +24,7 @@ Four carbide inserts same as #2, maybe leave worn but still useable inserts on t
 
 ### #12 4.2mm HSS drill for M5 tap
 
-106.18mm
+105.96mm
 
 ### #13 5mm HSS drill for M6 tap
 
