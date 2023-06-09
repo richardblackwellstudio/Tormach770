@@ -18,6 +18,10 @@ Four carbide inserts same as #2, maybe leave worn but still useable inserts on t
 
 79.97mm
 
+### #4 4mm end mill
+
+New endmill, to install
+
 ### #7 8mm 3F end mill
 
 89.18mm
@@ -45,3 +49,7 @@ Not installed
 ### #20 6mm 2F Carbide point drill 90º 55HRC 
 
 67.35mm
+
+### #26 6mm drill
+
+new
